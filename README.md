@@ -1,0 +1,20 @@
+# yosysjs-playground
+- https://github.com/yuyichao/yosysjs/blob/master/dist/yosys.js
+- https://classic.yarnpkg.com/en/package/yosysjs
+- https://yosyshq.net/
+- https://browse.dgit.debian.org/yosys.git/plain/misc/yosysjs
+- https://browse.dgit.debian.org/yosys.git/plain/frontends/liberty/liberty.cc?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/frontends/verific/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/frontends/verilog/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/frontends/blif/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/kernel/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/examples/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/debian/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- https://browse.dgit.debian.org/yosys.git/plain/techlibs/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- !!!https://browse.dgit.debian.org/yosys.git/plain/misc/yosysjs/demo01.html?id=12603432fed7e0332f09f34fad0bcc9aa88bd456
+- [智能EDA小白从0开始 —— DAY10 Yosys_集成电路设计开源eda软件yosys-CSDN博客](https://blog.csdn.net/thesky123456/article/details/142771524)
+- [Verilog实战学习到RiscV芯片设计 - 0_verilog做rescv处理器-CSDN博客](https://blog.csdn.net/codemonkeyboris/article/details/139034492)
+- [集成电路设计开源EDA软件yosys详解1：工具安装-CSDN博客](https://blog.csdn.net/fangfanglovezhou/article/details/124987987)
+- [Yosys Open SYnthesis Suite :: VlogHammer](https://yosyshq.net/yosys/yosysjs.html)
+- [Veripool](https://www.veripool.org/verilator/)
+- [/frontends/aiger/](https://browse.dgit.debian.org/yosys.git/plain/frontends/aiger/?id=12603432fed7e0332f09f34fad0bcc9aa88bd456)
